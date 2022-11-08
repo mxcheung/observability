@@ -14,3 +14,8 @@ https://www.google.com.au/books/edition/Observability_Engineering/JmZuEAAAQBAJ?h
 
 ## Data observability
 https://www.acceldata.io/blog/data-observability-guide
+
+
+## Observability: Metric, Logging, and Tracing, Oh My!
+CCSI Contemporary Computer Services Inc
+https://www.youtube.com/watch?v=ZVKrN1RLetI
