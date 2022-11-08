@@ -8,3 +8,6 @@ https://github.com/apache/skywalking-java
 
 ## Observability with Spring
 https://spring.io/guides/gs/tanzu-observability/
+
+## Observability_Engineering
+https://www.google.com.au/books/edition/Observability_Engineering/JmZuEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover
