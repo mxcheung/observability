@@ -24,3 +24,5 @@ CCSI Contemporary Computer Services Inc
 https://www.youtube.com/watch?v=ZVKrN1RLetI
 
 
+## Step by Step detailed guide to setup Apache Skywalking on kubernetes
+https://amjadhussain3751.medium.com/step-by-step-detailed-guide-to-setup-apache-skywalking-on-kubernetes-8369e3d93242
